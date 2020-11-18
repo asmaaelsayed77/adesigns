@@ -224,6 +224,15 @@ img {
   background-size: cover;
 }
 
+ .parallax .content .start {
+    position: absolute;
+	max-width: 100%;
+	margin-left: 0%;
+	bottom: 150%;
+	padding: 5px;
+    align-items: center;
+    }
+
 /*.content-graphics {
 	
 	
@@ -349,6 +358,15 @@ footer .copy {
 	padding: 5px;
     align-items: center
 }
+    
+   .parallax .content .start {
+    position: absolute;
+	max-width: 100%;
+	margin-left: 100%;
+	bottom: 300%;
+	padding: 5px;
+    align-items: center;
+    }
 	
 	.vcard iframe {
 	width: 19rem;
